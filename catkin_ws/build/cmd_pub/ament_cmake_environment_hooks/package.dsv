@@ -1,0 +1,4 @@
+source;share/cmd_pub/local_setup.bash
+source;share/cmd_pub/local_setup.dsv
+source;share/cmd_pub/local_setup.sh
+source;share/cmd_pub/local_setup.zsh

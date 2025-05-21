@@ -1,0 +1,16 @@
+/root/ros_ws/catkin_ws/install/cmd_pub/lib/cmd_pub/cmd_pub
+/root/ros_ws/catkin_ws/install/cmd_pub/share/ament_index/resource_index/package_run_dependencies/cmd_pub
+/root/ros_ws/catkin_ws/install/cmd_pub/share/ament_index/resource_index/parent_prefix_path/cmd_pub
+/root/ros_ws/catkin_ws/install/cmd_pub/share/cmd_pub/environment/ament_prefix_path.sh
+/root/ros_ws/catkin_ws/install/cmd_pub/share/cmd_pub/environment/ament_prefix_path.dsv
+/root/ros_ws/catkin_ws/install/cmd_pub/share/cmd_pub/environment/path.sh
+/root/ros_ws/catkin_ws/install/cmd_pub/share/cmd_pub/environment/path.dsv
+/root/ros_ws/catkin_ws/install/cmd_pub/share/cmd_pub/local_setup.bash
+/root/ros_ws/catkin_ws/install/cmd_pub/share/cmd_pub/local_setup.sh
+/root/ros_ws/catkin_ws/install/cmd_pub/share/cmd_pub/local_setup.zsh
+/root/ros_ws/catkin_ws/install/cmd_pub/share/cmd_pub/local_setup.dsv
+/root/ros_ws/catkin_ws/install/cmd_pub/share/cmd_pub/package.dsv
+/root/ros_ws/catkin_ws/install/cmd_pub/share/ament_index/resource_index/packages/cmd_pub
+/root/ros_ws/catkin_ws/install/cmd_pub/share/cmd_pub/cmake/cmd_pubConfig.cmake
+/root/ros_ws/catkin_ws/install/cmd_pub/share/cmd_pub/cmake/cmd_pubConfig-version.cmake
+/root/ros_ws/catkin_ws/install/cmd_pub/share/cmd_pub/package.xml

@@ -1,0 +1,70 @@
+[0.062s] Invoking command in '/root/ros_ws/catkin_ws/build/cmd_pub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/userdata/dev_ws/install/originbot_linefollower:/userdata/dev_ws/install/originbot_demo:/opt/tros/humble:/opt/ros/humble /usr/bin/cmake /root/ros_ws/catkin_ws/src/cmd_pub -DCMAKE_INSTALL_PREFIX=/root/ros_ws/catkin_ws/install/cmd_pub
+[0.699s] -- The C compiler identification is GNU 11.2.0
+[1.288s] -- The CXX compiler identification is GNU 11.2.0
+[1.343s] -- Detecting C compiler ABI info
+[1.736s] -- Detecting C compiler ABI info - done
+[1.810s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.812s] -- Detecting C compile features
+[1.815s] -- Detecting C compile features - done
+[1.834s] -- Detecting CXX compiler ABI info
+[2.274s] -- Detecting CXX compiler ABI info - done
+[2.344s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.345s] -- Detecting CXX compile features
+[2.348s] -- Detecting CXX compile features - done
+[2.375s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[3.407s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[4.145s] -- Found geometry_msgs: 4.2.4 (/opt/ros/humble/share/geometry_msgs/cmake)
+[4.425s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[4.470s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[4.537s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[4.638s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[4.766s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.056s] -- Found rclcpp: 16.0.11 (/opt/ros/humble/share/rclcpp/cmake)
+[5.356s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[5.382s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[5.896s] -- Found OpenSSL: /usr/lib/aarch64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[6.035s] -- Found FastRTPS: /opt/ros/humble/include  
+[6.236s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[6.307s] -- Looking for pthread.h
+[6.726s] -- Looking for pthread.h - found
+[6.727s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[7.144s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[7.151s] -- Found Threads: TRUE  
+[7.459s] -- Found sensor_msgs: 4.2.4 (/opt/ros/humble/share/sensor_msgs/cmake)
+[7.584s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[8.145s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[8.145s] -- Configured cppcheck include dirs: 
+[8.146s] -- Configured cppcheck exclude dirs and/or files: 
+[8.150s] -- Added test 'lint_cmake' to check CMake code style
+[8.157s] -- Added test 'uncrustify' to check C / C++ code style
+[8.157s] -- Configured uncrustify additional arguments: 
+[8.161s] -- Added test 'xmllint' to check XML markup files
+[8.177s] -- Configuring done
+[8.228s] -- Generating done
+[8.249s] -- Build files have been written to: /root/ros_ws/catkin_ws/build/cmd_pub
+[8.313s] Invoked command in '/root/ros_ws/catkin_ws/build/cmd_pub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/userdata/dev_ws/install/originbot_linefollower:/userdata/dev_ws/install/originbot_demo:/opt/tros/humble:/opt/ros/humble /usr/bin/cmake /root/ros_ws/catkin_ws/src/cmd_pub -DCMAKE_INSTALL_PREFIX=/root/ros_ws/catkin_ws/install/cmd_pub
+[8.335s] Invoking command in '/root/ros_ws/catkin_ws/build/cmd_pub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/userdata/dev_ws/install/originbot_linefollower:/userdata/dev_ws/install/originbot_demo:/opt/tros/humble:/opt/ros/humble /usr/bin/cmake --build /root/ros_ws/catkin_ws/build/cmd_pub -- -j8 -l8
+[8.581s] [ 50%] [32mBuilding CXX object CMakeFiles/cmd_pub.dir/src/cmd_pub.cpp.o[0m
+[59.468s] [100%] [32m[1mLinking CXX executable cmd_pub[0m
+[63.039s] [100%] Built target cmd_pub
+[63.106s] Invoked command in '/root/ros_ws/catkin_ws/build/cmd_pub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/userdata/dev_ws/install/originbot_linefollower:/userdata/dev_ws/install/originbot_demo:/opt/tros/humble:/opt/ros/humble /usr/bin/cmake --build /root/ros_ws/catkin_ws/build/cmd_pub -- -j8 -l8
+[63.162s] Invoking command in '/root/ros_ws/catkin_ws/build/cmd_pub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/userdata/dev_ws/install/originbot_linefollower:/userdata/dev_ws/install/originbot_demo:/opt/tros/humble:/opt/ros/humble /usr/bin/cmake --install /root/ros_ws/catkin_ws/build/cmd_pub
+[63.200s] -- Install configuration: ""
+[63.200s] -- Installing: /root/ros_ws/catkin_ws/install/cmd_pub/lib/cmd_pub/cmd_pub
+[63.224s] -- Set runtime path of "/root/ros_ws/catkin_ws/install/cmd_pub/lib/cmd_pub/cmd_pub" to ""
+[63.225s] -- Installing: /root/ros_ws/catkin_ws/install/cmd_pub/share/ament_index/resource_index/package_run_dependencies/cmd_pub
+[63.225s] -- Installing: /root/ros_ws/catkin_ws/install/cmd_pub/share/ament_index/resource_index/parent_prefix_path/cmd_pub
+[63.226s] -- Installing: /root/ros_ws/catkin_ws/install/cmd_pub/share/cmd_pub/environment/ament_prefix_path.sh
+[63.227s] -- Installing: /root/ros_ws/catkin_ws/install/cmd_pub/share/cmd_pub/environment/ament_prefix_path.dsv
+[63.227s] -- Installing: /root/ros_ws/catkin_ws/install/cmd_pub/share/cmd_pub/environment/path.sh
+[63.228s] -- Installing: /root/ros_ws/catkin_ws/install/cmd_pub/share/cmd_pub/environment/path.dsv
+[63.228s] -- Installing: /root/ros_ws/catkin_ws/install/cmd_pub/share/cmd_pub/local_setup.bash
+[63.229s] -- Installing: /root/ros_ws/catkin_ws/install/cmd_pub/share/cmd_pub/local_setup.sh
+[63.229s] -- Installing: /root/ros_ws/catkin_ws/install/cmd_pub/share/cmd_pub/local_setup.zsh
+[63.230s] -- Installing: /root/ros_ws/catkin_ws/install/cmd_pub/share/cmd_pub/local_setup.dsv
+[63.230s] -- Installing: /root/ros_ws/catkin_ws/install/cmd_pub/share/cmd_pub/package.dsv
+[63.231s] -- Installing: /root/ros_ws/catkin_ws/install/cmd_pub/share/ament_index/resource_index/packages/cmd_pub
+[63.232s] -- Installing: /root/ros_ws/catkin_ws/install/cmd_pub/share/cmd_pub/cmake/cmd_pubConfig.cmake
+[63.232s] -- Installing: /root/ros_ws/catkin_ws/install/cmd_pub/share/cmd_pub/cmake/cmd_pubConfig-version.cmake
+[63.233s] -- Installing: /root/ros_ws/catkin_ws/install/cmd_pub/share/cmd_pub/package.xml
+[63.245s] Invoked command in '/root/ros_ws/catkin_ws/build/cmd_pub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/userdata/dev_ws/install/originbot_linefollower:/userdata/dev_ws/install/originbot_demo:/opt/tros/humble:/opt/ros/humble /usr/bin/cmake --install /root/ros_ws/catkin_ws/build/cmd_pub

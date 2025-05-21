@@ -1,0 +1,10 @@
+/root/ros_ws/catkin_ws/build/cmd_pub/CMakeFiles/uninstall.dir
+/root/ros_ws/catkin_ws/build/cmd_pub/CMakeFiles/cmd_pub_uninstall.dir
+/root/ros_ws/catkin_ws/build/cmd_pub/CMakeFiles/cmd_pub.dir
+/root/ros_ws/catkin_ws/build/cmd_pub/CMakeFiles/test.dir
+/root/ros_ws/catkin_ws/build/cmd_pub/CMakeFiles/edit_cache.dir
+/root/ros_ws/catkin_ws/build/cmd_pub/CMakeFiles/rebuild_cache.dir
+/root/ros_ws/catkin_ws/build/cmd_pub/CMakeFiles/list_install_components.dir
+/root/ros_ws/catkin_ws/build/cmd_pub/CMakeFiles/install.dir
+/root/ros_ws/catkin_ws/build/cmd_pub/CMakeFiles/install/local.dir
+/root/ros_ws/catkin_ws/build/cmd_pub/CMakeFiles/install/strip.dir
